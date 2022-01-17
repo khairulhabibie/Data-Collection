@@ -1,2 +1,2 @@
 # Data-Collection
-Teknik-Tenik Data Collection. Data Collection merupakan Metode Pengumpulan Data / cara yang dilakukan untuk mengumpulkan data
+Data collection is the process of accumulating data that's required to solve a problem statement.
