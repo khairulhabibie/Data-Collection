@@ -1,3 +1,5 @@
+Etika dalam melakukan webscrapping:
+
 --- Ambil data publik sebanyak yang kamu inginkan. Data publik seperti wikipedia merupakan relatif lebih aman untuk 
     dilakukan pengambilan.
 --- Lakukan pengambilan secara wajar, lalu hindari penggunaan data untuk keperluan komersial.
