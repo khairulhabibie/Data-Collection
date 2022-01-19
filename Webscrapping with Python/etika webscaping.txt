@@ -1,0 +1,7 @@
+--- Ambil data publik sebanyak yang kamu inginkan. Data publik seperti wikipedia merupakan relatif lebih aman untuk 
+    dilakukan pengambilan.
+--- Lakukan pengambilan secara wajar, lalu hindari penggunaan data untuk keperluan komersial.
+    Ada baiknya bila terdapat copyright tanyakan secara pribadi apakah data tersebut bisa diambil atau tidak.
+--- Selalu perhatikan Terms of Service (ToS) jika ada
+--- Berikan jarak pada pengambilan data kalian, misalnya 1 request per 15 detik
+--- Jika kalian menggunakan API seandainya disediakan, maka itu merupakan cara legal untuk melakukan pengambilan data.
