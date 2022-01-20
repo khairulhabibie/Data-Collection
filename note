@@ -1,7 +1,8 @@
-- webscraping:
-artinya "Mengeruk ke dalam web" atau mengambil data pada situs internet secara langsung dengan memanfaatkan struktur situs tersebut.
+from dbm.ndbm import library
 
-- package python yang dibutuhkan :
+
+- library python yang dibutuhkan :
+  
   from urllib.request import urlopen
   from bs4 import BeautifulSoup
   import pandas as pd

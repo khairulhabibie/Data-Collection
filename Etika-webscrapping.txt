@@ -7,4 +7,3 @@ Etika dalam melakukan webscrapping:
 -3- Selalu perhatikan Terms of Service (ToS) jika ada
 -4- Berikan jarak pada pengambilan data kalian, misalnya 1 request per 15 detik
 -5- Jika kalian menggunakan API seandainya disediakan, maka itu merupakan cara legal untuk melakukan pengambilan data.
-
